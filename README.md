@@ -14,7 +14,6 @@
 ## 💫 About Me
 
 - 🔭 Currently building **DevCollab** — a real-time collaboration platform for student developers (I lead the AI integration, including the DevBot assistant)
-- 🎓 Vice President of the CSBS Department, Chennai Institute of Technology
 - 🌱 Sharpening **Advanced DSA**, React, and full-stack development
 - 🏆 Actively hacking — projects like **ResQConnect**, **SaarthiScore**, **CleanCity**, and **NeuroWall Sandbox**
 - 👯 Looking to collaborate on interesting web-dev and open-source projects
@@ -104,26 +103,6 @@ Grinding through the **Striver A-Z sheet**, with focus on monotonic stacks, spar
   <img src="https://github-profile-trophy.vercel.app/?username=SAKTHISANJAY13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 </p>
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SAKTHISANJAY13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKTHISANJAY13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=SAKTHISANJAY13&icon=0&color=00F7FF&style=flat-square" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-</p>
 ![](https://streak-stats.demolab.com/?user=SAKTHISANJAY13&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SAKTHISANJAY13&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
