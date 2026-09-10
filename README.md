@@ -1,106 +1,122 @@
-<h1 align="center">Hi 👋, I'm Sakthi Sanjay</h1>
-<h3 align="center">CSBS Student • DSA Enthusiast • Full-Stack Builder</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Solving+DSA+problems+one+bug+at+a+time;Building+DevCollab+%E2%80%94+AI-powered+dev+collaboration;C%2B%2B+%7C+React+%7C+Node.js+%7C+MongoDB;Vice+President%2C+CSBS+Department" alt="Typing SVG" />
-</p>
+# Hey there, I'm Sakthi Sanjay 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" />
-</p>
+### CSBS Student · Full-Stack Developer · DSA Enthusiast
 
-<img align="right" alt="Coding gif" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+products.;Solving+DSA+problems+one+bug+at+a+time.;React+%7C+Node.js+%7C+MongoDB+%7C+C%2B%2B;Vice+President+%40+CSBS+Department." alt="Typing SVG" />
 
-## 💫 About Me
+<br/>
 
-- 🔭 Currently building **DevCollab** — a real-time collaboration platform for student developers (I lead the AI integration, including the DevBot assistant)
-- 🌱 Sharpening **Advanced DSA**, React, and full-stack development
-- 🏆 Actively hacking — projects like **ResQConnect**, **SaarthiScore**, **CleanCity**, and **NeuroWall Sandbox**
-- 👯 Looking to collaborate on interesting web-dev and open-source projects
-- 🤝 Looking for help leveling up my DSA and writing cleaner, optimized code
-- 💬 Ask me about DSA, React, C++, hackathons, or my coding journey
-- ⚡ Fun fact: I can spend hours debugging one problem and still enjoy every second of it
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/SAKTHISANJAY13">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<br clear="right"/>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D5C,100:00C6FF&height=130&section=header&text=&fontSize=0" width="100%"/>
+
+## 👨‍💻 About Me
+
+```text
+🔭 Building: DevCollab — an AI-powered collaboration space for developers
+🌱 Learning: Advanced DSA, scalable backend systems, and modern web development
+🏆 Builder: ResQConnect, SaarthiScore, CleanCity, NeuroWall Sandbox
+👯 Open to: Web development, open-source, hackathons, and exciting ideas
+💬 Ask me about: C++, DSA, React, Node.js, hackathons, or building projects
+⚡ Motto: Debug. Learn. Build. Repeat.
+```
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🤝 DevCollab</h3>
-      Real-time GitHub/Notion/Slack-style collaboration platform for student developers. Built with the MERN stack + Socket.IO, featuring a Kanban board, code snippet manager, wiki, AI code reviewer, and <b>DevBot</b> — a floating AI assistant powered by Groq's Llama 3.3 70B.
-      <br><br>
-      <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.IO</code> <code>Redis</code>
-    </td>
-    <td width="50%">
-      <h3>🆘 ResQConnect</h3>
-      Emergency response platform concept with a full user-flow design, tech architecture, and pitch deck — built for hackathon presentation.
-      <br><br>
-      <code>Flutter</code> <code>FastAPI</code> <code>PostgreSQL + PostGIS</code> <code>Pinecone</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💳 SaarthiScore</h3>
-      AI-powered credit scoring platform for underserved beneficiaries, blending repayment behavior with consumption proxies, complete with explainability and risk banding. Presented at the college department expo.
-      <br><br>
-      <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Tailwind</code>
-    </td>
-    <td width="50%">
-      <h3>🛡️ NeuroWall Sandbox</h3>
-      A 15-hour hackathon build — ransomware detection using entropy analysis, YARA rules, and PE header inspection, wrapped in a cyberpunk dark-themed UI.
-      <br><br>
-      <code>Python</code> <code>Flask</code> <code>Vanilla JS</code>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 DevCollab
+
+A real-time collaboration platform for student developers with Kanban boards, snippets, wikis, AI code reviews, and **DevBot**.
+
+`React` `Node.js` `MongoDB` `Socket.IO` `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🆘 ResQConnect
+
+An emergency response platform concept with a complete user flow, technical architecture, and pitch deck.
+
+`Flutter` `FastAPI` `PostgreSQL` `PostGIS` `Pinecone`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💳 SaarthiScore
+
+An explainable AI-powered credit scoring solution for underserved communities.
+
+`React` `TypeScript` `Supabase` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ NeuroWall Sandbox
+
+A ransomware-detection tool using entropy analysis, YARA rules, and PE header inspection.
+
+`Python` `Flask` `JavaScript`
+
+</td>
+</tr>
 </table>
 
----
+## 🧠 Competitive Programming
 
-## 📈 Competitive Programming
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-~1612-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeChef-2--Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1612-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-2%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   <img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
-Grinding through the **Striver A-Z sheet**, with focus on monotonic stacks, sparse tables, rolling hashing, and DP — daily on LeetCode and Codeforces.
+<div align="center">
 
----
+Currently grinding the **Striver A2Z DSA Sheet** — focused on DP, graphs, hashing, sparse tables, and monotonic stacks.
 
-## 🌐 Socials
+</div>
 
-<p align="left">
-<a href="https://linkedin.com/in/SAKTHI SANJAY.M" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,html,tailwind,express,nextjs,nodejs,mongodb,postgres,py,pytorch,aws,java&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=SAKTHISANJAY13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SAKTHISANJAY13&layout=compact&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,supabase,tailwind,git,github,aws,vscode&theme=dark" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAKTHISANJAY13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKTHISANJAY13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SAKTHISANJAY13&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <img src="https://streak-stats.demolab.com?user=SAKTHISANJAY13&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAKTHISANJAY13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SAKTHISANJAY13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### ✨ “Code is not just logic — it is creativity with structure.”
+
+<img src="https://komarev.com/ghpvc/?username=SAKTHISANJAY13&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D5C,100:00C6FF&height=110&section=footer" width="100%"/>
