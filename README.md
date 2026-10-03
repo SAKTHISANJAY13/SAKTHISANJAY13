@@ -118,5 +118,3 @@ Currently grinding the **Striver A2Z DSA Sheet** — focused on DP, graphs, hash
 <img src="https://komarev.com/ghpvc/?username=SAKTHISANJAY13&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D5C,100:00C6FF&height=110&section=footer" width="100%"/>
